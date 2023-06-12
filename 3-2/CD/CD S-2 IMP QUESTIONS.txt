@@ -1,0 +1,10 @@
+1.Compare the LR parsers.
+2.Explain the forms of 3-address codes with an example
+3.Translate the expression a=b* -c + b* -c into quadruples.
+4.Construct abstract syntax tree for the x=(a-b)*(c+d) using mknode ,mkleaf functions
+5.Explain synthesized and inherited attributes with an example.
+6.Discuss about the stack allocation technique in detail.
+7.Describe Machine Independent Optimization techniques.	
+8.Explain about Loop Optimization with suitable examples.
+9.Discuss various object code forms.
+10.Explain about peephole Optimization technique.
